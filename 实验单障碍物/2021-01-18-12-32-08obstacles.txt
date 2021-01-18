@@ -1,0 +1,1 @@
+Obb{name='obstacle1', point=Point{x=1878.8424834265804, y=-0.0043320454585780155, z=-160.0017074511839}, vectors=[Vector{vextorX=1.0, vextorY=0.0, vextorZ=0.0}, Vector{vextorX=0.0, vextorY=1.0, vextorZ=0.0}, Vector{vextorX=0.0, vextorY=0.0, vextorZ=1.0}], halfLength=[168.9698656966724, 85.44732829925721, 129.9982925488161]}
