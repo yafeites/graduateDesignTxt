@@ -1,0 +1,12 @@
+E:\pythonWorkSpace\venv\Scripts\python.exe E:/pythonWorkSpace/laser.py
+2021-01-22-11-27-08欧式聚类0
+213984.72000000006
+2021-01-22-11-27-08欧式聚类1
+120506.74343510754
+2021-01-22-11-27-08欧式聚类2
+2410420.9999999995
+2021-01-22-11-27-08欧式聚类3
+128077.18057887057
+2021-01-22-11-27-08欧式聚类4
+404309.18998824246
+<module 'matplotlib.pyplot' from 'E:\\pythonWorkSpace\\venv\\lib\\site-packages\\matplotlib\\pyplot.py'>

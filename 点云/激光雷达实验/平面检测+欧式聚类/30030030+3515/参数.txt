@@ -1,0 +1,16 @@
+GroundSegmentationParams():
+        visualize(false),
+        r_min_square(476100),
+        r_max_square(1.36161E7),
+        n_bins(300),
+        n_segments(300),                                                                                                                                                                        
+        max_dist_to_line(30),
+        max_slope(1),
+        n_threads(4),
+        max_error_square(625),
+        long_threshold(300),
+        max_long_height(50),
+        max_start_height(40),
+        sensor_height(-330),
+        line_search_angle(3.14) {}
+        LaserHelper.cluster(o.getPointFromFile("20210122 104809地面处理","聚类"),35,15);
