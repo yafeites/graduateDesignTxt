@@ -1,2 +1,7 @@
-Obb{name='obstacle2', point=Point{x=1122.2443997948117, y=591.8190900456055, z=985.0317098103676}, vectors=[Vector{vextorX=-0.9999661492160795, vextorY=0.008228026614298273, vextorZ=0.0}, Vector{vextorX=-0.008228026614298273, vextorY=-0.9999661492160795, vextorZ=0.0}, Vector{vextorX=0.0, vextorY=0.0, vextorZ=1.0}], halfLength=[167.10996413595126, 622.8374185878532, 94.96770075139898]}
+Obb{name='obstacle2', point=Point{x=1122.2443997948117, y=591.8190900456055, z=985.0317098103676}, 
+vectors=[Vector{vextorX=-0.9999661492160795, vextorY=0.008228026614298273, vextorZ=0.0}, Vector{vextorX=-0.008228026614298273, vextorY=-0.9999661492160795, vextorZ=0.0}, Vector{vextorX=0.0, vextorY=0.0, vextorZ=1.0}], halfLength=[167.10996413595126, 622.8374185878532, 94.96770075139898]}
 Obb{name='obstacle2', point=Point{x=1880.4613915109232, y=0.18929223345776958, z=-217.0048951484784}, vectors=[Vector{vextorX=0.9999925866549344, vextorY=0.0038505369980848334, vextorZ=0.0}, Vector{vextorX=-0.0038505369980848334, vextorY=0.9999925866549344, vextorZ=0.0}, Vector{vextorX=0.0, vextorY=0.0, vextorZ=1.0}], halfLength=[170.76005769684195, 140.13471487588748, 76.9951048515216]}
+
+
+Obb{name='obstacle1',point={x=1122,y=591,z=985},vector=[[1,0,0],[0,1,0],[0,0,1]]
+Obb{name='obstacle2',point={x=1880,y=0,z=-217},vector=[[1,0,0],[0,1,0],[0,0,1]]
